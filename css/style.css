@@ -1,0 +1,42 @@
+.fb{
+    float:left;
+    margin:2px;
+    font-family:'Fengardo Neue Regular';
+    text-align:center;
+  
+    color:white;
+    height:80px;
+    width:144px;
+    background:url"images/ff_01.jpg";
+    border-radius:10px;
+}
+.linkin{
+float:left;
+     margin:2px;
+    font-family:"Fengardo Neue Regular";
+    color:white;
+    height:80px;
+    width:144px;
+    background-color:#238cc8;
+    border-radius:10px;
+}
+.yt{
+float:left;
+     margin:2px;
+    font-family:"Fengardo Neue Regular";
+    color:white;
+    height:80px;
+    width:144px;
+    background-color:#ef4e41;
+    border-radius:10px;
+}
+.twt{
+float:left;
+    margin:2px;
+    font-family:"Fengardo Neue Regular";
+    color:white;
+    height:80px;
+    width:144px;
+    background-color:#40bff5;
+    border-radius:10px;
+}
